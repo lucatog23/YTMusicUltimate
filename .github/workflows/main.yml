@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs: 
       ipa_url:
-        description: "URL to the decrypted IPA file"
+        description: "https://www.dropbox.com/scl/fi/r9skd7ouar9c3mso4w08u/com.google.ios.youtubemusic-8.18-Decrypted.ipa?rlkey=sv52qtketxzjywn3u2l89y7li&st=wdz3v0ik&dl=0"
         default: ""
         required: true
         type: string
